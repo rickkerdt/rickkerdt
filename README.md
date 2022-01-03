@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rick Paassen
 - 👀 I’m interested in DevOps, Infrastructure as Code, Kubernetes, Cloud Solutions.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on fun Raspberry Pi projects
+- 🌱 I’m currently learning Python, Yaml & JSON
 - 📫 How to reach me https://www.linkedin.com/in/rick-paassen-698837138/
 
 <!---
