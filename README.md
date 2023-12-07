@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rick Paassen
 - 👀 I’m interested in DevOps, Infrastructure as Code, Kubernetes, Cloud Solutions.
-- 🌱 I’m currently learning Python, Yaml & JSON
+- 🌱 I’m currently working with Bicep, JSON and YAML
 - 📫 How to reach me https://www.linkedin.com/in/rick-paassen-698837138/
 
 <!---
